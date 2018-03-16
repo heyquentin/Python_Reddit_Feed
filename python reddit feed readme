@@ -1,0 +1,2 @@
+This is strictly a python script.  It doesn't kick the results to the arduino lcd. Run with this command to update every 30 seconds:
+watch -n 30 ./python_reddit_feed.py
